@@ -1,1 +1,506 @@
-{]
+[
+{
+"times": "1",
+"reference": "Sura Al Fateha",
+"recommended": "All Shifa | Before sleeping | Ruquiya | Sick/Evil eye",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA1.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/Al-Fatiha.png",
+"type": "morning-azkar"
+},
+{
+"times": "1",
+"reference": "Al Baqarah 2:1-5",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA2.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/Al-Baqara-1-7.png",
+"type": "morning-azkar"
+},
+{
+"times": "1",
+"reference": "Surah Al Baqarah 2: 255 | Al-Hakim 1/562 | An Nasai | at-Tabarani",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding Empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA3.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/ayatul-kursi.png",
+"type": "morning-azkar"
+},
+{
+"times": "1",
+"reference": "Al Baqarah 2:256",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA4.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e4.png",
+"type": "morning-azkar"
+},
+{
+"times": "1",
+"reference": "Al Baqarah 2:257",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA5.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e5.png",
+"type": "morning-azkar"
+},
+{
+"times": "1",
+"reference": "Al Baqarah 2:284",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA6.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e6-new.png",
+"type": "morning-azkar"
+},
+{
+"times": "1",
+"reference": "Al Baqarah 2:285",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA7.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e7.png",
+"type": "morning-azkar"
+},
+{
+"times": "3",
+"reference": "Al Baqarah 2:286",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA8.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e8.png",
+"type": "morning-azkar"
+},
+{
+"times": "3",
+"reference": "Al-Ikhlas | Abu Dawood 2/86 | An Nasai 3/68 | Al Albani | Sahih Timithi 2/8",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA9.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/Al-Ikhlas.png",
+"type": "morning-azkar"
+},
+{
+"times": "3",
+"reference": "Al-Falaq | Abu Dawood 2/86 | An Nasai 3/68 | Al Albani | Sahih Timithi 2/8",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA10.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/Al-Falaq.png",
+"type": "morning-azkar"
+},
+{
+"times": "1",
+"reference": "Al-Naas | Abu Dawood 2/86 | An Nasai 3/68 | Al Albani | Sahih Timithi 2/8",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA11.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/An-Naas.png",
+"type": "morning-azkar"
+},
+{
+"times": "1",
+"reference": "Sahih Muslim 4/2088 and 2723 | At-Trimidhi 3390",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA12.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/m12.png",
+"type": "morning-azkar"
+},
+{
+"times": "1",
+"reference": "Imam Ahmad 15367 | Sahih Al-Jami 4674",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA13.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/m13.png",
+"type": "morning-azkar"
+},
+{
+"times": "14",
+"reference": "Abu Dawood 5068 | At-Tirmidhi 3391 | Ibn Majah 3868",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA14.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/m14.png",
+"type": "morning-azkar"
+},
+{
+"times": "15",
+"reference": "Kitab Al Azkar Al-Uthaymeen | Ibn Sonny",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA15.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/m15.png",
+"type": "morning-azkar"
+},
+{
+"times": "16",
+"reference": "Abu Dawood 4/324",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA16.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/m16.png",
+"type": "morning-azkar"
+},
+{
+"times": "17",
+"reference": "Kitab Al Azkar Al-Uthaymeen | Itahzeeb Al-Kamali Lilmazi",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA17.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e17.png",
+"type": "morning-azkar"
+},
+{
+"times": "18",
+"reference": "Abu Dawood 4/318",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA18.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e18.png",
+"type": "morning-azkar"
+},
+{
+"times": "19",
+"reference": "Ibn Majah 2/323",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA19.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e19.png",
+"type": "morning-azkar"
+},
+{
+"times": "20",
+"reference": "Sahih Muslim 4/2090",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA20.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e20.png",
+"type": "morning-azkar"
+},
+{
+"times": "21",
+"reference": "Abu Dawood 4/323 | At-Trimithi 5/465",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA21.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e21.png",
+"type": "morning-azkar"
+},
+{
+"times": "22",
+"reference": "Kitab Al Azkar Al-Uthaymeen | Ahadith Mokhtara Limaqdesy",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA22.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e22.png",
+"type": "morning-azkar"
+},
+{
+"times": "23",
+"reference": "Imam Ahmed 2/290",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA23.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e23.png",
+"type": "morning-azkar"
+},
+{
+"times": "24",
+"reference": "At-Thirmidi 3/142",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA24.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e24.png",
+"type": "morning-azkar"
+},
+{
+"times": "25",
+"reference": "Sahih Tergib Ue Terhib 1/273",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA25.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e25.png",
+"type": "morning-azkar"
+},
+{
+"times": "26",
+"reference": "Al Bhukari 7/150",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA26.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e26.png",
+"type": "morning-azkar"
+},
+{
+"times": "27",
+"reference": "Abu Dawood 4/317",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA27.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/m27.png",
+"type": "morning-azkar"
+},
+{
+"times": "28",
+"reference": "Abu Dawood 4/324",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA28.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e28.png",
+"type": "morning-azkar"
+},
+{
+"times": "7",
+"reference": "Abu Dawood 4/321",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA29.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e29.png",
+"type": "morning-azkar"
+},
+{
+"times": "1",
+"reference": "Abu Dawood 4/322",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA30.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/m30.png",
+"type": "morning-azkar"
+},
+{
+"times": "100",
+"reference": "Sahih Muslim 4/2071",
+"recommended": "Dhikr/Tasweeh all day",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA31.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e30.png",
+"type": "morning-azkar"
+},
+{
+"times": "100",
+"reference": "Al Bukhari 6405 | Sahih Muslim 4/2071",
+"recommended": "Dhikr | This should be implemented at all time to purify the Qalb (Heart)",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA32.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e31.png",
+"type": "morning-azkar"
+},
+{
+"times": "1",
+"reference": "Sura Al Fateha",
+"recommended": "All Shifa | Before sleeping | Ruquiya | Sick/Evil eye",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA1.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/Al-Fatiha.png",
+"type": "evening-azkar"
+},
+{
+"times": "1",
+"reference": "Al Baqarah 2:1-5",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA2.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/Al-Baqara-1-7.png",
+"type": "evening-azkar"
+},
+{
+"times": "1",
+"reference": "Surah Al Baqarah 2: 255 | Al-Hakim 1/562 | An Nasai | at-Tabarani",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding Empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA3.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/ayatul-kursi.png",
+"type": "evening-azkar"
+},
+{
+"times": "1",
+"reference": "Al Baqarah 2:256",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA4.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e4.png",
+"type": "evening-azkar"
+},
+{
+"times": "1",
+"reference": "Al Baqarah 2:257",
+"recommended": "Al Baqarah 2:257",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA5.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e5.png",
+"type": "evening-azkar"
+},
+{
+"times": "1",
+"reference": "Al Baqarah 2:284",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA6.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e6-new.png",
+"type": "evening-azkar"
+},
+{
+"times": "1",
+"reference": "Al Baqarah 2:285",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA7.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e7.png",
+"type": "evening-azkar"
+},
+{
+"times": "1",
+"reference": "Al Baqarah 2:286",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA8.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e8.png",
+"type": "evening-azkar"
+},
+{
+"times": "3",
+"reference": "Al-Ikhlas | Abu Dawood 2/86 | An Nasai 3/68 | Al Albani | Sahih Timithi 2/8",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA9.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/Al-Ikhlas.png",
+"type": "evening-azkar"
+},
+{
+"times": "3",
+"reference": "Al-Falaq | Abu Dawood 2/86 | An Nasai 3/68 | Al Albani | Sahih Timithi 2/8",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA10.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/Al-Falaq.png",
+"type": "evening-azkar"
+},
+{
+"times": "3",
+"reference": "Al-Naas | Abu Dawood 2/86 | An Nasai 3/68 | Al Albani | Sahih Timithi 2/8",
+"recommended": "Before sleeping | Ruquiya | Sick/Evil eye | Guarding empty home",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA11.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/An-Naas.png",
+"type": ""
+},
+{
+"times": "1",
+"reference": "Sahih Muslim 4/2088 and 2723 | At-Trimidhi 3390",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA12.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e12.png",
+"type": ""
+},
+{
+"times": "1",
+"reference": "Imam Ahmad 15367 | Sahih Al-Jami 4674",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA13.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e13.png",
+"type": ""
+},
+{
+"times": "1",
+"reference": "Abu Dawood 5068 | At-Tirmidhi 3391 | Ibn Majah 3868",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA14.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e14.png",
+"type": ""
+},
+{
+"times": "3",
+"reference": "Kitab Al Azkar Al-Uthaymeen | Ibn Sonny",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA15.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e15.png",
+"type": ""
+},
+{
+"times": "1",
+"reference": "Abu Dawood 4/324",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA16.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e16.png",
+"type": ""
+},
+{
+"times": "1",
+"reference": "Kitab Al Azkar Al-Uthaymeen | Itahzeeb Al-Kamali Lilmazi",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA17.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e17.png",
+"type": ""
+},
+{
+"times": "3",
+"reference": "Abu Dawood 4/318",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA18.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e18.png",
+"type": ""
+},
+{
+"times": "1",
+"reference": "Ibn Majah 2/323",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA19.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e19.png",
+"type": ""
+},
+{
+"times": "3",
+"reference": "Sahih Muslim 4/2090",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA20.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e20.png",
+"type": ""
+},
+{
+"times": "3",
+"reference": "Abu Dawood 4/323 | At-Trimithi 5/465",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA21.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e21.png",
+"type": ""
+},
+{
+"times": "3",
+"reference": "Kitab Al Azkar Al-Uthaymeen | Ahadith Mokhtara Limaqdesy",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA22.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e22.png",
+"type": ""
+},
+{
+"times": "3",
+"reference": "Imam Ahmed 2/290",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA23.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e23.png",
+"type": ""
+},
+{
+"times": "1",
+"reference": "At-Thirmidi 3/142",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA24.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e24.png",
+"type": ""
+},
+{
+"times": "1",
+"reference": "Sahih Tergib Ue Terhib 1/273",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA25.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e25.png",
+"type": ""
+},
+{
+"times": "1",
+"reference": "Al Bhukari 7/150",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA26.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e26.png",
+"type": ""
+},
+{
+"times": "4",
+"reference": "Abu Dawood 4/317",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH2DUA27.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e27.png",
+"type": ""
+},
+{
+"times": "3",
+"reference": "Abu Dawood 4/324",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA28.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e28.png",
+"type": ""
+},
+{
+"times": "7",
+"reference": "Abu Dawood 4/321",
+"recommended": "Dua anytime or in Tashahhud",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA29.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e29.png",
+"type": ""
+},
+{
+"times": "100",
+"reference": "Sahih Muslim 4/2071",
+"recommended": "Dhikr/Tasweeh all day",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA31.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e30.png",
+"type": ""
+},
+{
+"times": "100",
+"reference": "Al Bukhari 6405 | Sahih Muslim 4/2071",
+"recommended": "Dhikr | This should be implemented at all time to purify the Qalb (Heart)",
+"audio": "http://www.duaandazkar.com/audio_new/CH3DUA32.mp3",
+"image": "https://www.duaandazkar.com/wp-content/uploads/e31.png",
+"type": ""
+}
+]
